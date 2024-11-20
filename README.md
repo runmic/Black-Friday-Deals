@@ -141,6 +141,12 @@ Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and mor
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
+### 💸 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
+
+Small search engine without the fluff.
+
+<p>&nbsp;</p>
+
 ## Video Software
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - 50% OFF on the App Store, no code needed
 
